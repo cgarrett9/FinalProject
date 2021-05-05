@@ -7,4 +7,5 @@ My name is Christopher Garrett, and this is my second semester here at Mizzou. T
 
 ## About ME
 
+* [School](School.md)
 * [Hobbies](Hobbies.md)
