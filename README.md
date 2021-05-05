@@ -13,7 +13,7 @@ My name is Christopher Garrett, and this is my second semester here at Mizzou. T
 * [Baseball](Baseball.md)
 
 ## Example Code
-Finally, I want to share a piece of code I wrote for one of my IT courses this semester.
+Finally, I want to share a piece of code I wrote for one of my IT courses this semester. This code calcuates how much coating a cylinder needs and the cost.
 
 ```
 def user_float(prompt):
@@ -35,5 +35,5 @@ def main():
 
 main()
 ```
-
+Thank you for taking the time to learn a bit about me. I am excited to share my future work here on GitHub.
 
