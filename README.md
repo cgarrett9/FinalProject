@@ -9,3 +9,4 @@ My name is Christopher Garrett, and this is my second semester here at Mizzou. T
 
 * [School](School.md)
 * [Hobbies](Hobbies.md)
+* [Family](Family.md)
