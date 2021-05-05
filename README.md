@@ -15,7 +15,7 @@ My name is Christopher Garrett, and this is my second semester here at Mizzou. T
 ## Example Code
 Finally, I want to share a piece of code I wrote for one of my IT courses this semester.
 
-'''
+```
 def user_float(prompt):
     while True:
         try:
@@ -34,6 +34,6 @@ def main():
     print("The volume of the cylinder is", volume)
 
 main()
-'''
+```
 
 
